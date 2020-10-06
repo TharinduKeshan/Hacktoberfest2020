@@ -1,2 +1,2 @@
 # Hacktoberfest2020
-Do A Pull Request. Update This README
+This Code Is Really Great. Thank You For Giving This.
